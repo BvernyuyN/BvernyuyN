@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bvernyuyn&label=Profile%20views&color=0e75b6&style=flat" alt="bvernyuyn" /> </p>
 
-- 🌱 I’m currently learning **Advance python for data science and ML,IT Support,cloud computing AWS**
+- 🌱 I’m currently learning **Devops and cloud computing AWS,Azure**
 
 - 📝 I regularly write articles on [https://medium.com/@frijohn63](https://medium.com/@frijohn63)
 
